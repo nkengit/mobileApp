@@ -14,7 +14,6 @@ fi
 
 		status=$? # exit status of last command
         echo $? = 0    ==> success
-        echo $? = 1    ==> failure #review below
 
 		echo $? = 0    ==> Uversal correctness
 		echo $? = 1    ==> permission denied
